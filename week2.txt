@@ -1,0 +1,69 @@
+what is the difference between  output parameter and 
+return key word 
+
+ out put parameter  to returen the value  
+return key word 
+ to is use to check the proc executed or not 
+
+
+varible  to hold the data perment for sometime 
+
+parameter   to pass the data 
+ wih recompile option during execution 
+with recomple option during execution 
+sp recompile
+ execution plane 
+
+creating execution plane and compile it 
+ type of proc
+system defined sps
+
+use defined sps
+
+ to create any sp / loan statment
+   
+ input
+...................................
+   loan amount 
+   rate of interest
+   tenure in year 
+
+ output
+....................................
+ sl No       pay date   emi Amount 
+-------------------------------------
+
+ logic 
+ 
+
+ source control 
+git hab
+https://github.com/YosephKassaye/pythonSample
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
